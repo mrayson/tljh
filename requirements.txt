@@ -1,0 +1,9 @@
+numpy
+scipy
+matplotlib
+pandas
+netcdf4
+zarr
+xarray
+dask
+fsspec
